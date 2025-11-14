@@ -33,6 +33,30 @@
     },
     "titles_read": [
       {
+        "asin": "QNYJCJFK23JSHXWLBNKWRABZKZB7DQWS",
+        "read_event_id": "8567c0c4-afef-45bc-9ee7-cda7dc161f7c",
+        "date_read": "2025-11-12T01:58:42-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "7FQ7NFWXUQ25E4UMCHN6UUSTUUO3UYTO",
+        "read_event_id": "80a34880-651e-477e-b56d-6549015f5559",
+        "date_read": "2025-11-09T02:01:33-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "CJDZGBEFFWPULRYI333LMTTOUETDC3J7",
+        "read_event_id": "7626a332-f7f6-4821-b95c-69f5d4cd405e",
+        "date_read": "2025-11-09T05:15:08-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "B1EC00F5AEBF4658983688C041747B23",
         "read_event_id": "8ed94a46-4f8d-4902-9f05-60bb5c668d60",
         "date_read": "2025-11-05T16:54:47-08:00",
@@ -126,7 +150,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 49,
+    "daysLeftInCurrentChallenge": 48,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
