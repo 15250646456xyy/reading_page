@@ -33,6 +33,30 @@
     },
     "titles_read": [
       {
+        "asin": "FH3KLQ4DPNYLO4F5RVGQ2IBJMXVP5EHI",
+        "read_event_id": "ab53caf9-032d-4bca-968f-6428b1398430",
+        "date_read": "2025-11-23T17:48:32-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "B305105B2021424DA1CEB4604EB9106B",
+        "read_event_id": "12fce86e-7e3b-421e-8e4e-c35c3389a94f",
+        "date_read": "2025-11-18T21:46:21-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "3SGQ7DDMWZYGONJBAQXQX4IR4C23AUGC",
+        "read_event_id": "57c89eb8-b050-482f-8fbf-d0f9db2a3641",
+        "date_read": "2025-11-15T21:25:38-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "QNYJCJFK23JSHXWLBNKWRABZKZB7DQWS",
         "read_event_id": "8567c0c4-afef-45bc-9ee7-cda7dc161f7c",
         "date_read": "2025-11-12T01:58:42-08:00",
@@ -151,7 +175,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 28,
+    "daysLeftInCurrentChallenge": 27,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
