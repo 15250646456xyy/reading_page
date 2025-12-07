@@ -33,6 +33,14 @@
     },
     "titles_read": [
       {
+        "asin": "BHRMOKQQY25KHXIGE6VHYPUZC7SQED52",
+        "read_event_id": "b810355a-18d8-4d6f-b02e-af9769c1b1ef",
+        "date_read": "2025-12-05T17:59:48-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "FH3KLQ4DPNYLO4F5RVGQ2IBJMXVP5EHI",
         "read_event_id": "ab53caf9-032d-4bca-968f-6428b1398430",
         "date_read": "2025-11-23T17:48:32-08:00",
@@ -175,14 +183,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 26,
+    "daysLeftInCurrentChallenge": 25,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 4,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_a45cb854-f187-33a3-b18f-9b143b7ddeb1.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_b4eaf405-2b34-4f34-b8b0-bee54a0ac60b.png",
         "quantity": 1,
-        "title": "Bibliophile",
+        "title": "Trendsetter",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
