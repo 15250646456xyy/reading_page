@@ -33,6 +33,14 @@
     },
     "titles_read": [
       {
+        "asin": "IUUYPPVZ5TM3OPX2MGYZHWVNRQ2K76CT",
+        "read_event_id": "fd02c813-c2a9-4d32-8ef7-f47e369aef56",
+        "date_read": "2025-12-18T17:23:51-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "9DD758F19E3F4F0B8D5782A5109B8E9B",
         "read_event_id": "9e234ebb-250a-4031-91f1-01e0cdb3022c",
         "date_read": "2025-12-17T04:00:49-08:00",
@@ -215,7 +223,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 87,
+    "daysLeftInCurrentChallenge": 86,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 0,
     "achievementsDisplayAttributes": [
