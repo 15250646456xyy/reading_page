@@ -33,6 +33,30 @@
     },
     "titles_read": [
       {
+        "asin": "GWGTXK3WGIQVMZY5LWJVMXUTKXWZ73ZY",
+        "read_event_id": "e91833f0-cd9e-4b4a-84e5-6fd2853073fe",
+        "date_read": "2026-01-05T21:33:44-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "JJBELJQB3X3JPS625O3CU64NYD5LUD67",
+        "read_event_id": "8fd02657-68e3-4906-9374-ad83a373f7c3",
+        "date_read": "2026-01-06T00:30:08-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "GLTTLWCFUBTJ6HNWDEX6EVD6XG5V2MDX",
+        "read_event_id": "60c26180-1afe-4cf4-a129-3162e4f4a597",
+        "date_read": "2026-01-06T06:48:30-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "IUUYPPVZ5TM3OPX2MGYZHWVNRQ2K76CT",
         "read_event_id": "fd02c813-c2a9-4d32-8ef7-f47e369aef56",
         "date_read": "2025-12-18T17:23:51-08:00",
@@ -223,10 +247,17 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 84,
+    "daysLeftInCurrentChallenge": 83,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_59a1a25a-c831-32be-9dee-cb84602cba40.png",
+        "quantity": 1,
+        "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
         "quantity": 0,
@@ -242,18 +273,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectMonth_845978f4-f40d-3f29-9601-37e8742b27d2.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
-        "quantity": 0,
-        "title": "Bibliophile",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
