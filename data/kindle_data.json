@@ -33,17 +33,17 @@
     },
     "titles_read": [
       {
-        "asin": "GWGTXK3WGIQVMZY5LWJVMXUTKXWZ73ZY",
-        "read_event_id": "e91833f0-cd9e-4b4a-84e5-6fd2853073fe",
-        "date_read": "2026-01-05T21:33:44-08:00",
+        "asin": "JJBELJQB3X3JPS625O3CU64NYD5LUD67",
+        "read_event_id": "8fd02657-68e3-4906-9374-ad83a373f7c3",
+        "date_read": "2026-01-06T00:30:08-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "JJBELJQB3X3JPS625O3CU64NYD5LUD67",
-        "read_event_id": "8fd02657-68e3-4906-9374-ad83a373f7c3",
-        "date_read": "2026-01-06T00:30:08-08:00",
+        "asin": "GWGTXK3WGIQVMZY5LWJVMXUTKXWZ73ZY",
+        "read_event_id": "e91833f0-cd9e-4b4a-84e5-6fd2853073fe",
+        "date_read": "2026-01-05T21:33:44-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -247,7 +247,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 62,
+    "daysLeftInCurrentChallenge": 61,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
