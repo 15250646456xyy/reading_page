@@ -33,6 +33,46 @@
     },
     "titles_read": [
       {
+        "asin": "FW67KZMXLXCGYAPIKV6A2YLW7LMKXQYL",
+        "read_event_id": "1ae3dcc4-521e-4a63-b1d6-4d9d87fdf540",
+        "date_read": "2026-04-17T07:17:28-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "58B01578488946028A95874D48F9AACE",
+        "read_event_id": "c05d1d8d-60f4-476c-8a5c-3a74cbd8aba2",
+        "date_read": "2026-04-14T06:10:27-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "6ZILHI25BDURAYERFKUYK37JEON57264",
+        "read_event_id": "e8a1ec9a-f890-46b1-8ec9-86ae7b0b3d7a",
+        "date_read": "2026-04-09T06:33:40-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "MGJP3LOT76O32B5RRNMWJYG2OCPAZSFN",
+        "read_event_id": "729e227c-de36-4773-b2a8-e92171bff79b",
+        "date_read": "2026-04-01T23:04:07-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "NLNVGL35FBPIOV4Y2DTE7ARH7G4AWYVD",
+        "read_event_id": "b4770ea7-051c-4c42-965d-a31b97e24582",
+        "date_read": "2026-03-28T01:33:49-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "ZRPX226BASAZIYOMSSDDBMPM2UIKAOJ7",
         "read_event_id": "f43020ce-efd4-4d04-80c6-48cc43b91c0d",
         "date_read": "2026-03-19T01:44:32-07:00",
@@ -57,17 +97,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "GWGTXK3WGIQVMZY5LWJVMXUTKXWZ73ZY",
-        "read_event_id": "e91833f0-cd9e-4b4a-84e5-6fd2853073fe",
-        "date_read": "2026-01-05T21:33:44-08:00",
+        "asin": "JJBELJQB3X3JPS625O3CU64NYD5LUD67",
+        "read_event_id": "8fd02657-68e3-4906-9374-ad83a373f7c3",
+        "date_read": "2026-01-06T00:30:08-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "JJBELJQB3X3JPS625O3CU64NYD5LUD67",
-        "read_event_id": "8fd02657-68e3-4906-9374-ad83a373f7c3",
-        "date_read": "2026-01-06T00:30:08-08:00",
+        "asin": "GWGTXK3WGIQVMZY5LWJVMXUTKXWZ73ZY",
+        "read_event_id": "e91833f0-cd9e-4b4a-84e5-6fd2853073fe",
+        "date_read": "2026-01-05T21:33:44-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -271,10 +311,17 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 55,
+    "daysLeftInCurrentChallenge": 54,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_226234e6-a274-3f30-899e-73ffd2544be4.png",
+        "quantity": 1,
+        "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
         "quantity": 0,
@@ -290,18 +337,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_PerfectMonth_e41fbe1b-00cb-3ffc-8aab-de6ae9b12176.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
-        "quantity": 0,
-        "title": "Bibliophile",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
