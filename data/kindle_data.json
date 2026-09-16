@@ -33,6 +33,22 @@
     },
     "titles_read": [
       {
+        "asin": "I6H22YFIWOBAVERXXFBY3REHHXM4N5UA",
+        "read_event_id": "3982de68-c5ca-494a-890d-9b749e7d011f",
+        "date_read": "2026-09-08T21:14:09-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "MWK3UNA4QSJU3HDBJ6MOTBFFYTUV4L7A",
+        "read_event_id": "527eb34b-f85d-46eb-8dc4-7927b4318a1f",
+        "date_read": "2026-09-07T04:45:47-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "5E2975E7FE384A5A9528439DBB195EB1",
         "read_event_id": "e1d4d6f2-a952-484f-91f6-917d920567b7",
         "date_read": "2026-05-30T05:11:43-07:00",
@@ -129,17 +145,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "JJBELJQB3X3JPS625O3CU64NYD5LUD67",
-        "read_event_id": "8fd02657-68e3-4906-9374-ad83a373f7c3",
-        "date_read": "2026-01-06T00:30:08-08:00",
+        "asin": "GWGTXK3WGIQVMZY5LWJVMXUTKXWZ73ZY",
+        "read_event_id": "e91833f0-cd9e-4b4a-84e5-6fd2853073fe",
+        "date_read": "2026-01-05T21:33:44-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "GWGTXK3WGIQVMZY5LWJVMXUTKXWZ73ZY",
-        "read_event_id": "e91833f0-cd9e-4b4a-84e5-6fd2853073fe",
-        "date_read": "2026-01-05T21:33:44-08:00",
+        "asin": "JJBELJQB3X3JPS625O3CU64NYD5LUD67",
+        "read_event_id": "8fd02657-68e3-4906-9374-ad83a373f7c3",
+        "date_read": "2026-01-06T00:30:08-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -342,10 +358,17 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 16,
+    "daysLeftInCurrentChallenge": 15,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookworm_d09fc63b-3585-3bc5-ab49-b12bc276ab4e.png",
+        "quantity": 1,
+        "title": "Bookworm",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
         "quantity": 0,
@@ -357,13 +380,6 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_SilverReader_79be1896-990f-3a1c-8f7d-a79d287b373d.png",
         "quantity": 0,
         "title": "Silver Reader",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_6101bf78-9757-3c5a-bf34-3f69b27aac0d.png",
-        "quantity": 0,
-        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
