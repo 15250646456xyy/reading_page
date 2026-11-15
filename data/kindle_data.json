@@ -33,6 +33,38 @@
     },
     "titles_read": [
       {
+        "asin": "CDBZCJQXQHLEMDQHAX2AQEEF7A74GFQ4",
+        "read_event_id": "83d30506-f17d-489b-9cee-a4c92a2a4f22",
+        "date_read": "2026-11-11T19:38:01-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "SFE3222NMX3EEZ52MXUSC46WSVYQP6FY",
+        "read_event_id": "9f5d4dff-56d0-4dad-b57c-66dd60a54fa2",
+        "date_read": "2026-11-06T06:41:05-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "RCOXFHZWOVXH2PMYBDYESAQPAS7ROJK3",
+        "read_event_id": "96d7d6ad-d4f9-4e61-93fb-21243d7efb40",
+        "date_read": "2026-11-02T23:25:47-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "4CZNDYWBL3LWZPQET5OVWP7PAMRRNPNM",
+        "read_event_id": "e73ee7fa-adaf-42ec-a24e-d4a1cfe7d281",
+        "date_read": "2026-11-02T19:21:18-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "LK5SHFG6JNFBYC4UWP7JFAIY7WXKHWAB",
         "read_event_id": "f530e40c-87f9-4d61-a83a-919ac3b44fd9",
         "date_read": "2026-10-29T07:23:08-07:00",
@@ -382,14 +414,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 48,
+    "daysLeftInCurrentChallenge": 47,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookworm_25459e2a-b1e3-3068-aafc-f86e294caae3.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_d161990b-8b2f-35d9-bc70-db6ec211dd51.png",
         "quantity": 1,
-        "title": "Bookworm",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -408,11 +440,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_594da21e-a9a0-3027-8cb1-b02b0a0ee2e6.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_PerfectMonth_e5821412-1fd6-358c-8689-16cc0f2d6682.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
