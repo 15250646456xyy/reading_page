@@ -57,17 +57,17 @@
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "RCOXFHZWOVXH2PMYBDYESAQPAS7ROJK3",
-        "read_event_id": "96d7d6ad-d4f9-4e61-93fb-21243d7efb40",
-        "date_read": "2026-11-02T23:25:47-08:00",
+        "asin": "4CZNDYWBL3LWZPQET5OVWP7PAMRRNPNM",
+        "read_event_id": "e73ee7fa-adaf-42ec-a24e-d4a1cfe7d281",
+        "date_read": "2026-11-02T19:21:18-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "4CZNDYWBL3LWZPQET5OVWP7PAMRRNPNM",
-        "read_event_id": "e73ee7fa-adaf-42ec-a24e-d4a1cfe7d281",
-        "date_read": "2026-11-02T19:21:18-08:00",
+        "asin": "RCOXFHZWOVXH2PMYBDYESAQPAS7ROJK3",
+        "read_event_id": "96d7d6ad-d4f9-4e61-93fb-21243d7efb40",
+        "date_read": "2026-11-02T23:25:47-08:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -422,7 +422,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 39,
+    "daysLeftInCurrentChallenge": 38,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
